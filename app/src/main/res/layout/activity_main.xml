@@ -112,6 +112,30 @@
             android:textColorHint="#FFFFFF" />
 
 
+        <Button
+            android:id="@+id/cal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="110dp"
+            android:layout_marginTop="300dp"
+            android:backgroundTint="#2E6E98"
+            android:fontFamily="@font/akaya_telivigala"
+            android:text="Calculate"
+            android:textColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/result"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="80dp"
+            android:layout_marginTop="220dp"
+
+            android:fontFamily="@font/akaya_telivigala"
+            android:text=""
+            android:textColor="#FFFFFF"
+            android:textSize="20sp" />
+
+
     </FrameLayout>
 
 
